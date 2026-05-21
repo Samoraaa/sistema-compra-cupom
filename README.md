@@ -1,7 +1,7 @@
-Sistema de Compra com Cupom de Desconto
+# Sistema de Compra com Cupom de Desconto
 Sistema simples de compra em C# via console, com suporte a cupom de desconto de 20% e cálculo de frete baseado nas dimensões do produto.
 
-Funcionalidades
+# Funcionalidades
 
 Cadastro do produto e seu preço
 Aplicação de cupom de desconto de 20% para compras acima de R$ 1.500,00
@@ -10,7 +10,7 @@ Frete grátis para produtos com largura, altura e comprimento todos abaixo de 15
 Confirmação de compra pelo usuário
 
 
-Fluxo do Sistema
+# Fluxo do Sistema
 Informe o produto e o preço
         │
         ▼
