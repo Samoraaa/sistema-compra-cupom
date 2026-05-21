@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SzNAX4XSNdM=",
+  "success": true,
+  "projectFilePath": "/home/samora/RiderProjects/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/home/samora/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
