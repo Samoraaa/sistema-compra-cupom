@@ -27,10 +27,10 @@ Informe o produto e o preço
                   └── Não → Frete grátis
                             Confirma compra? → Aplica 20% desconto
 
-Regras de Negócio
+# Regras de Negócio
 CondiçãoDescontoFretePreço < R$ 1.500❌ Sem descontoR$ 150,00Preço ≥ R$ 1.500, sem cupom❌ Sem descontoR$ 150,00Preço ≥ R$ 1.500, com cupom, dimensão ≥ 150 cm✅ 20%R$ 150,00Preço ≥ R$ 1.500, com cupom, todas dimensões < 150 cm✅ 20%Grátis
 
-Como Executar
+# Como Executar
 Pré-requisitos
 
 .NET SDK instalado
@@ -68,7 +68,7 @@ você possui o frete gratis - deseja realizar a compra?
 
 Compra realizada, seu valor final foi: 1600
 
-Tecnologias
+# Tecnologias
 
 Linguagem: C#
 Plataforma: .NET (Console Application)
